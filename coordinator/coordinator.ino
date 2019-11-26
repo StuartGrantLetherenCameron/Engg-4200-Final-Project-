@@ -5,7 +5,7 @@ void setup() {
 }
 
 void loop() {
-  Serial.print(13, HEX);
+  Serial.print("D");
 
-  delay(1000);
+  delay(500);
 }
