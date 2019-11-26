@@ -24,6 +24,12 @@ void loop() {
     int dest = random(numNodes);
     digitalWrite(led[dest], HIGH);
 
+    // Send start to destination node
+
+    // Wait for response from dest with button press
+
+    // If response not received within timer then move on
+
     while (digitalRead(btn[dest]) != HIGH && timer >= 0) {
       timer = timer - 1;
       delay(1);

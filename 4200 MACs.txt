@@ -1,0 +1,11 @@
+Coordinator			A
+00 13 A2 00 41 85 1F F8
+
+Router				B
+00 13 A2 00 41 55 B9 6F
+
+Router				D
+00 13 A2 00 41 85 16 8F
+
+Router				E
+00 13 A2 00 41 55 B9 02
